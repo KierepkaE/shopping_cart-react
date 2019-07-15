@@ -8,4 +8,4 @@
 
 Exercise done during [course](www.websamuraj.pl) - ["React od podstaw - teoria i praktyka"](www.udemy.com/user/samuraj-programowania/)
 
-You can see the reult [here](https://kierepkae.github.io/shoppingCartwithReact/) .
+You can see the reult [here](https://kierepkae.github.io/shoppingCartwithReact/).
