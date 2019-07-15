@@ -4,7 +4,11 @@
 #### You add and remove products, number of products is also check with available stock.
 
 
-- ES6 | React | JSX | JavaScipt
+- ES6 
+- React 
+- JSX 
+- JavaScipt
+
 
 Exercise done during [course](www.websamuraj.pl) - ["React Basics - practice and theory"](www.udemy.com/user/samuraj-programowania/).
 
