@@ -1,7 +1,7 @@
 # shopping cart - react
 
 ### Shopping cart simulator. 
-#### You add and remove products, number of products is also check with available stock.
+#### You can add and remove products, number of products is also check with available stock.
 
 # tech:
 - ES6 
